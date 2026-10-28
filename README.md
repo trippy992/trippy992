@@ -2,46 +2,89 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=720&height=50&lines=Aspiring+Full-Stack+Developer+%26+AI+Engineer+%F0%9F%9A%80;Building+a+LeetCode-style+coding+platform;MERN+%E2%9C%96+AI+%7C+Learning+by+shipping)](https://github.com/trippy992)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=760&height=50&lines=Aspiring+Full-Stack+Developer+%26+AI+Engineer+%F0%9F%9A%80;Building+a+LeetCode-style+coding+platform+%E2%9A%A1;Learning+Generative+AI+%26+Agentic+AI+%F0%9F%A4%96;Grinding+DSA+in+C%2B%2B+%E2%9A%94%EF%B8%8F;Ship+%E2%9E%94+Learn+%E2%9E%94+Repeat+%F0%9F%94%81)](https://github.com/trippy992)
 
 </div>
 
-## 👨‍💻 `> about_me --verbose`
+## 🧬 `visitor@trippy992 ➟ ~ $ neofetch`
 
-```json
-{
-  "whoami": "Aspiring Full-Stack Developer & AI Engineer",
-  "current": {
-    "building": "🧩 A LeetCode-style coding platform (coding-platform repo)",
-    "learning": "🤖 AI/ML — Python, TensorFlow & everything in between",
-    "stack": "⚛️ React · Redux · Tailwind · Node.js · MongoDB · Python"
-  },
-  "goals_2026": [
-    "Ship the full-stack coding platform end-to-end",
-    "Build & deploy an AI-powered project",
-    "Crack harder DSA problems, one LeetCode daily"
-  ]
-}
+```text
+     ╔════════════════╗     
+     ║  █▀▀▀▀▀▀▀▀▀▀█  ║     ┌────────────────────────────────────
+     ║  █  💻 🧠 ⚔️  █  ║     │  user:        trippy992
+     ║  █▄▄▄▄▄▄▄▄▄▄█  ║     │  role:        Aspiring Full-Stack Dev & AI Engineer
+     ╚════════════════╝     ├────────────────────────────────────
+                            │  🧠 learning:  Generative AI · Agentic AI
+        ██  ██              │  ⚔️  grind:     DSA in C++ (daily)
+        ██  ██              │  ⚛️  frontend:  React · Angular · Tailwind
+        ██  ██              │  🟩 backend:   Node.js · Express · MongoDB
+                            │  🗣️  langs:    JavaScript · Python · C++ · C
+                            │  🔧 status:    Building a LeetCode-style platform
+                            └────────────────────────────────────
 ```
 
 ## ⚡ `tech_arsenal`
 
+### 🗣️ ‹ languages ›
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%230d1117?style=for-the-badge&logo=javascript&logoColor=%23f7df1e" />
+  <img src="https://img.shields.io/badge/Python-%230d1117?style=for-the-badge&logo=python&logoColor=%23ffd343" />
+  <img src="https://img.shields.io/badge/C++-%230d1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599c" />
+  <img src="https://img.shields.io/badge/C-%230d1117?style=for-the-badge&logo=c&logoColor=%23a8b9cc" />
+</div>
+
+### ⚛️ ‹ frontend ›
+
+<div align="center">
   <img src="https://img.shields.io/badge/React-%230d1117?style=for-the-badge&logo=react&logoColor=%2300e5ff" />
+  <img src="https://img.shields.io/badge/Angular-%230d1117?style=for-the-badge&logo=angular&logoColor=%23dd0031" />
   <img src="https://img.shields.io/badge/Redux-%230d1117?style=for-the-badge&logo=redux&logoColor=%23764abc" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%230d1117?style=for-the-badge&logo=tailwindcss&logoColor=%2338bdf8" />
   <img src="https://img.shields.io/badge/Vite-%230d1117?style=for-the-badge&logo=vite&logoColor=%23a855f7" />
+  <img src="https://img.shields.io/badge/HTML5-%230d1117?style=for-the-badge&logo=html5&logoColor=%23e34f26" />
+  <img src="https://img.shields.io/badge/CSS3-%230d1117?style=for-the-badge&logo=css3&logoColor=%231572b6" />
+</div>
+
+### 🟩 ‹ backend_database ›
+
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-%230d1117?style=for-the-badge&logo=node.js&logoColor=%233ddc84" />
   <img src="https://img.shields.io/badge/Express-%230d1117?style=for-the-badge&logo=express&logoColor=%23ffffff" />
   <img src="https://img.shields.io/badge/MongoDB-%230d1117?style=for-the-badge&logo=mongodb&logoColor=%2347a248" />
-  <img src="https://img.shields.io/badge/Python-%230d1117?style=for-the-badge&logo=python&logoColor=%23ffd343" />
-  <img src="https://img.shields.io/badge/TensorFlow-%230d1117?style=for-the-badge&logo=tensorflow&logoColor=%23ff8f00" />
+  <img src="https://img.shields.io/badge/REST_API-%230d1117?style=for-the-badge&logoColor=%2300e5ff&labelColor=%230d1117" />
+</div>
+
+### 🤖 ‹ ai_zone.generative_plus_agentic ›
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GENERATIVE_AI-%230d1117?style=for-the-badge&logoColor=%2300e5ff&logo=googleai&logoColor=%2300e5ff" />
+  <img src="https://img.shields.io/badge/AGENTIC_AI-%230d1117?style=for-the-badge&logo=microsoftcopilot&logoColor=%23ff00cc" />
+  <img src="https://img.shields.io/badge/LLMs_&_Prompting-%230d1117?style=for-the-badge&logo=openai&logoColor=%23ffffff" />
+  <img src="https://img.shields.io/badge/RAG_%26_LangChain-%230d1117?style=for-the-badge&logo=chainlink&logoColor=%2300e5ff" />
+  <img src="https://img.shields.io/badge/AGENTIC_WORKFLOWS-loading...-%230d1117?style=for-the-badge&labelColor=0d1117" />
+</div>
+
+### 🔧 ‹ dev_tools ›
+
+<div align="center">
   <img src="https://img.shields.io/badge/Git-%230d1117?style=for-the-badge&logo=git&logoColor=%23f05032" />
+  <img src="https://img.shields.io/badge/GitHub-%230d1117?style=for-the-badge&logo=github&logoColor=%2300e5ff" />
+  <img src="https://img.shields.io/badge/VS_Code-%230d1117?style=for-the-badge&logo=visualstudiocode&logoColor=%2300a6f4" />
   <img src="https://img.shields.io/badge/Postman-%230d1117?style=for-the-badge&logo=postman&logoColor=%23ff6c37" />
 </div>
 
-## 📊 `system_stats`
+## 🔭 `active_projects --watching`
+
+<div align="center">
+  <a href="https://github.com/trippy992/coding-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trippy992&repo=coding-platform&bg_color=0D1117&title_color=00E5FF&icon_color=FF00CC&text_color=C9D1D9&hide_border=true&description_lines_short=0" alt="coding-platform repo card" />
+  </a>
+</div>
+
+> 🧩 **coding-platform** — a LeetCode-style coding experience built with React + Redux + Tailwind, with a full backend & AI features on the roadmap.
+
+## 📊 `system_stats --live`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trippy992&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00BFA5&text_color=C9D1D9&ring_color=00E5FF" height="150" alt="stats" />
@@ -50,7 +93,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trippy992&bg_color=0D1117&color=00E5FF&line=7B2FF7&point=FF00CC&area=true&hide_border=true" width="85%" alt="activity graph" />
 </div>
 
-## 🏆 `achievements`
+## 🏆 `achievements --fetched`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=trippy992&theme=radical&no-frame=true&no-bg=true&column=7" width="100%" alt="trophies" />
@@ -58,7 +101,7 @@
 
 ## 🐍 `snake --run`
 
-> This snake eats my contribution graph. Fed automatically by GitHub Actions.
+> This snake eats my contribution graph. Fed automatically by GitHub Actions, daily.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trippy992/trippy992/output/github-contribution-grid-snake-dark.svg" />
