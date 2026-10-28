@@ -1,0 +1,10 @@
+# logs & editor state
+*.log
+.vscode/
+.idea/
+
+# personal photo (converted to ASCII inside the SVGs; raw file stays local)
+WhatsApp Image*
+*.jpg
+*.jpeg
+*.png
