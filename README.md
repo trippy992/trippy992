@@ -78,11 +78,21 @@
 
 <div align="center">
   <a href="https://github.com/trippy992/coding-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trippy992&repo=coding-platform&bg_color=0D1117&title_color=00E5FF&icon_color=FF00CC&text_color=C9D1D9&hide_border=true&description_lines_short=0" alt="coding-platform repo card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trippy992&repo=coding-platform&show_owner=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00CC&text_color=C9D1D9&border_color=7B2FF7&border_radius=12" alt="coding-platform repo card" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00e5ff" />
+  <img src="https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=764abc" />
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/Backend-JOINING_SOON_🛠️-0D1117?style=flat-square&logo=node.js&logoColor=3ddc84" />
+  <br/><br/>
+  <a href="https://github.com/trippy992/coding-platform">
+    <img src="https://img.shields.io/badge/%F0%9F%94%A5%20OPEN%20THE%20PROJECT-7B2FF7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
-> 🧩 **coding-platform** — a LeetCode-style coding experience built with React + Redux + Tailwind, with a full backend & AI features on the roadmap.
+> 🧩 **coding-platform** — a LeetCode-style coding experience: login/signup with Redux auth, React Router pages and a component-driven UI. Backend + AI problem-solver features are on the roadmap. ⭐ *drop a star if it looks cool*
 
 ## 📊 `system_stats --live`
 
