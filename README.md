@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7b2ff7,100:ff00cc&height=200&section=header&text=Tripurari%20Sen&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=%E2%9A%A1%20Aspiring%20Full-Stack%20Dev%20%26%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+  <img src="./dark.svg" alt="Tripurari Sen — Aspiring Full-Stack Dev & AI Engineer" width="100%" />
+</picture>
 
 <div align="center">
 
