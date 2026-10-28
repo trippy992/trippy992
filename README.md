@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-  <img src="./dark.svg" alt="Tripurari Sen — Aspiring Full-Stack Dev & AI Engineer" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg" />
+  <img src="./hero-dark.svg" alt="Tripurari Sen — Aspiring Full-Stack Dev & AI Engineer" width="100%" />
 </picture>
 
 <div align="center">
