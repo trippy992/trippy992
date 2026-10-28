@@ -16,6 +16,7 @@
      ╚════════════════╝     ├────────────────────────────────────
                             │  🧠 learning:  Generative AI · Agentic AI
         ██  ██              │  ⚔️  grind:     DSA in C++ (daily)
+        ██  ██              │  🧩 dsa-log:   DSA-Daily — one solve, one commit
         ██  ██              │  ⚛️  frontend:  React · Angular · Tailwind
         ██  ██              │  🟩 backend:   Node.js · Express · MongoDB
                             │  🗣️  langs:    JavaScript · Python · C++ · C
@@ -90,9 +91,15 @@
   <a href="https://github.com/trippy992/coding-platform">
     <img src="https://img.shields.io/badge/%F0%9F%94%A5%20OPEN%20THE%20PROJECT-7B2FF7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <br/><br/>
+  <a href="https://github.com/trippy992/-DSA-Daily-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trippy992&repo=-DSA-Daily-&show_owner=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00CC&text_color=C9D1D9&border_color=7B2FF7&border_radius=12" alt="DSA-Daily repo card" />
+  </a>
 </div>
 
 > 🧩 **coding-platform** — a LeetCode-style coding experience: login/signup with Redux auth, React Router pages and a component-driven UI. Backend + AI problem-solver features are on the roadmap. ⭐ *drop a star if it looks cool*
+
+> 🐍 **-DSA-Daily-** — the daily DSA grind: one problem solved and committed every day (C++). Solve log lives in the repo README.
 
 ## 📊 `system_stats --live`
 
